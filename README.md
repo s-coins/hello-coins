@@ -1,0 +1,2 @@
+# hello-coins
+just play
